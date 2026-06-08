@@ -399,6 +399,6 @@ https://www.youtube.com/watch?v=GYnmm97bPxg
 
 https://httpd.apache.org/docs/current/zh-cn/sitemap.html
 
-https://www.redhat.com/en/blog/linux-file-permissions-explained?utm_source=chatgpt.com
+https://www.redhat.com/en/blog/linux-file-permissions-explained
 
 
